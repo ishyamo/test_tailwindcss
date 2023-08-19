@@ -25,6 +25,16 @@ Checking the folder shows that the post.config.js (needed for the second step in
 ![Folder contents - only tailwind config](https://github.com/ishyamo/test_tailwindcss/blob/5c360d02efbd99260bda9e66ca6c121985f7ff68/4_Only_tailwind_config_installed_.png "")
 
 <br><br>
+Okay, how about if we try only installing postcss in that folder: `npm install postcss`<br>
+
+Nope, same issues and nothing installed. <br>
+Right, let's run `npm audit` to see what's going on....<br><br>
+The full report and just the part about Postcss are both included in this repo:<br>
+- npm_audit_report_full.txt
+- npm_audit_report_postcss_only.txt
+
+Is this typical of postcss installs? It's quite bad.<br><br>
+
 
 2. **Add Tailwind to your PostCSS configuration**
 3. **Configure your template paths**
