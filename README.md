@@ -9,6 +9,7 @@ https://tailwindcss.com/docs/installation/using-postcss
 ![Tailwindcss Official install page (with Postcss)](https://github.com/ishyamo/test_tailwindcss/blob/907a1ac878c7fc48c6e85a79194b902e9cbb624c/2_tailwindcss_install_page.png "")
 
 Following install steps:<br>
+1. **Install Tailwind CSS**<br>
 
 This is the route I used on my Mac for this test:<br>
 `CD Store/localdev/test-tailwindcss`
@@ -23,12 +24,13 @@ Tailwind installs, but there are errors...<br>
 Checking the folder shows that the post.config.js (needed for the second step in the process) is absent! :( <br>
 ![Folder contents - only tailwind config](https://github.com/ishyamo/test_tailwindcss/blob/5c360d02efbd99260bda9e66ca6c121985f7ff68/4_Only_tailwind_config_installed_.png "")
 
-<br>
-1. Install Tailwind CSS
-2. Add Tailwind to your PostCSS configuration
-3. Configure your template paths
-4. Add the Tailwind directives to your CSS
-5. Start your build process using: npm run dev
+<br><br>
+
+2. **Add Tailwind to your PostCSS configuration**
+3. **Configure your template paths**
+4. **Add the Tailwind directives to your CSS**
+5. **Start your build process using: npm run dev**
+
 
 
 ---
