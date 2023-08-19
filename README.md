@@ -18,6 +18,8 @@ Then used:<br>
 `npm install -D tailwindcss postcss autoprefixer`<br>
 `npx tailwindcss init`
 
+Tailwind installs, but there are errors...
+
 
 2. Add Tailwind to your PostCSS configuration
 3. Configure your template paths
