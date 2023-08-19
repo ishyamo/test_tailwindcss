@@ -6,6 +6,8 @@ This repo is only for assessing why postcss is not installing when the usual pro
 Head to the Tailwindcss install page, specifically the one that includes Postcss:<br>
 https://tailwindcss.com/docs/installation/using-postcss
 
+![Tailwindcss Official install page (with Postcss)](https://github.com/ishyamo/test_tailwindcss/blob/907a1ac878c7fc48c6e85a79194b902e9cbb624c/2_tailwindcss_install_page.png "")
+
 Following install steps:
 1. Install Tailwind CSS<br>
 
