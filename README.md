@@ -29,8 +29,7 @@ Okay, how about if we try only installing postcss in that folder: `npm install p
 
 Nope, same issues and nothing installed. <br>
 Right, let's run `npm audit` to see what's going on....<br><br>
-The full report and just the part about Postcss are both included in this repo:<br>
-- npm_audit_report_full.txt (**Update: Now removed**)
+The full report and just the part about Postcss were included in this repo (**Update: Now removed**)<br>
 
 Is this typical of postcss installs? It's quite bad.<br><br>
 
